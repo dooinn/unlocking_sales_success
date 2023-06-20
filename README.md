@@ -1,4 +1,4 @@
-# unlocking_sales_success
+# Unlocking Sales Success
 
 
 <img src="project_report/1.png" width = 800 alt="" title="" />
